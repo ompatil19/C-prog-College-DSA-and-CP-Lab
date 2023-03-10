@@ -1,0 +1,12 @@
+    insert(22);
+    insert(13);
+    insert(-6);
+    display();
+    delete();
+    delete();
+    display();
+    insert(9);
+    insert(20);
+    insert(5);
+    display();
+    getch();

@@ -1,0 +1,3 @@
+Name	Email	Source	Destination	Flight type	Airlines
+omkar	omkar.is21@bmsce.ac.in	blr	pnq	eco	airasia
+om	ompatil2002@gmail.com	blr	bom	eco	airasia
